@@ -4,8 +4,8 @@ All newly written functions will be uploaded to the "upload folder" after comple
 
 ## Phase 0 Set up the environment
 
-- [ ] Make sure that the complier works
-- [ ] Make sure that default packages (such as GSL, fstream, sstream etc.) works on you computer
+- [x] Make sure that the complier works
+- [x] Make sure that default packages (such as GSL, fstream, sstream etc.) works on you computer
 This phase completes upon the condition: Pass the tests assigned for default packages with satisfactory output
 ## Phase 1 Read in the data
 - [ ] Figure out which of the parsing functions needs modification
