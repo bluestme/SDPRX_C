@@ -4,8 +4,8 @@ All newly written functions will be uploaded to the "upload folder" after comple
 
 ## Phase 0 Set up the environment
 
-- [] Make sure that the complier works
-- [] Make sure that default packages (such as GSL, fstream, sstream etc.) works on you computer
+- [ ] Make sure that the complier works
+- [ ] Make sure that default packages (such as GSL, fstream, sstream etc.) works on you computer
 
 ## Phase 1 Read in the data
 
