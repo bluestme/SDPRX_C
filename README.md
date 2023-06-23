@@ -8,6 +8,7 @@ All newly written functions will be uploaded to the "upload folder" after comple
 - [x] Make sure that default packages (such as GSL, fstream, sstream etc.) works on you computer
 This phase completes upon the condition: Pass the tests assigned for default packages with satisfactory output
 ## Phase 1 Read in the data
+- [ ] Know what files are read in
 - [ ] Figure out which of the parsing functions needs modification
 - [ ] Run the original code to read in the one population data
 - [ ] Modify the code to read in the data that needs to be read in with SDPRX
