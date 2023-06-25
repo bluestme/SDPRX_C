@@ -11,14 +11,14 @@ All newly written functions will be uploaded to the "upload folder" after comple
 This phase completes upon the condition: Pass the tests assigned for default packages with satisfactory output
 ## Phase 1 Read in the data
 - [x] Know what files are read in
-- [ ] Figure out which of the parsing functions needs modification
+- [x] Figure out which of the parsing functions needs modification
 - [x] Run the original code to read in the one population data
-- [ ] Modify the code to read in the data that needs to be read in with SDPRX
+- [x] Modify the code to read in the data that needs to be read in with SDPRX
 
 
 This phase completes upon the condition: All test data of SDPRX can be successfully read in with the modified function, based on satisfying output (such as head)
 ## Phase 2 Data preprocessing
-- [ ] Know how the read-in data are processed as variables (in stack or heap? Any pointers needed?)
+- [x] Know how the read-in data are processed as variables (in stack or heap? Any pointers needed?)
 - [ ] Write steps to preprocess the readin data
 
 
