@@ -19,14 +19,15 @@ This phase completes upon the condition: Pass the tests assigned for default pac
 This phase completes upon the condition: All test data of SDPRX can be successfully read in with the modified function, based on satisfying output (such as head)
 ## Phase 2 Data preprocessing
 - [x] Know how the read-in data are processed as variables (in stack or heap? Any pointers needed?)
-- [ ] Write steps to preprocess the readin data
+- [x] Write steps to preprocess the readin data
 
 
 This phase completes upon the condition: After preprocessing the test data, new C++ code give the same output as the Python code
 ## Phase 3 Set up the state object and its initialization
-- [ ]  Sketch out the variables needed in the class and their types or dimensions
-- [ ]  Build the class
-- [ ]  Design the initiation function
+- [x]  Sketch out the variables needed in the class and their types or dimensions
+- [x]  Build the class
+- [x]  Design the initiation function
+- [ ]  Complete initiation
 
 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
