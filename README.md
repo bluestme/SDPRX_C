@@ -47,6 +47,6 @@ This phase completes upon the condition: With testing, each function give the sa
 ## Phase 5 Integration
 - [ ]  Design the output of the code
 - [ ]  Design the whole structure of the code
-- [ ]  Integrate all implemented function
+- [ ]  Integrate all implemented function such as input and threads
 - [ ]  Write the makefile
 - [ ]  Test the program with multiple applications
