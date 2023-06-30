@@ -32,21 +32,22 @@ This phase completes upon the condition: After preprocessing the test data, new 
 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
 ## Phase 4 Set up the sampling functions
-- [ ]  Design the samling functions one by one
 - [ ]  assignment
 - [ ]  beta
 - [ ]  eta
 - [ ]  prob for each population
 - [ ]  alpha
 - [ ]  stick-breaking parts
+- [ ]  sufficient stats
 - [ ]  The stick-breaking one
+- [ ]  Integration of the sampling functions to complete one MCMC cycle
 
 
 This phase completes upon the condition: With testing, each function give the same output as the Python code
 
 ## Phase 5 Integration
 - [ ]  Design the output of the code
-- [ ]  Design the whole structure of the code
 - [ ]  Integrate all implemented function such as input and threads
 - [ ]  Write the makefile
+- [ ]  Code documentation and commenting
 - [ ]  Test the program with multiple applications
