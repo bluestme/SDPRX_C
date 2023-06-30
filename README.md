@@ -27,7 +27,7 @@ This phase completes upon the condition: After preprocessing the test data, new 
 - [x]  Sketch out the variables needed in the class and their types or dimensions
 - [x]  Build the class
 - [x]  Design the initiation function
-- [ ]  Complete initiation
+- [x]  Complete initiation
 
 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
