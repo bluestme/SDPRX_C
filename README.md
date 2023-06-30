@@ -48,4 +48,5 @@ This phase completes upon the condition: With testing, each function give the sa
 - [ ]  Design the output of the code
 - [ ]  Design the whole structure of the code
 - [ ]  Integrate all implemented function
+- [ ]  Write the makefile
 - [ ]  Test the program with multiple applications
