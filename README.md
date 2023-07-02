@@ -58,5 +58,4 @@ This phase completes upon the condition: With testing, each function give the sa
 - [ ]  Write the makefile
 - [ ]  Code documentation and commenting
 - [ ]  Test the program with multiple applications
-# Inplementation of LD matrix
 
