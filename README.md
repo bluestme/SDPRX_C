@@ -42,11 +42,11 @@ This phase completes upon the condition: After initiation, new C++ code give the
 - [ ]  assignment
 - [ ]  beta
 - [ ]  eta
+- [x]  calc_b
 - [ ]  prob for each population
 - [ ]  alpha
-- [ ]  stick-breaking parts
-- [ ]  sufficient stats
-- [ ]  The stick-breaking one
+- [x]  sufficient stats
+- [x]  sigma2
 - [ ]  Integration of the sampling functions to complete one MCMC cycle
 
 
