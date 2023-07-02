@@ -29,6 +29,13 @@ This phase completes upon the condition: After preprocessing the test data, new 
 - [x]  Design the initiation function
 - [x]  Complete initiation
 
+## Phase 3.5 Implementation of LD matrix evaluation
+- [ ] Read the code in SDPRX
+- [ ] Test the code for SDPRX on HPC
+- [ ] Read the code in SDPR
+- [ ] Modify the code for SDPR
+- [ ] Test the code for SDPR on small scale dataset
+- [ ] Test the code for SDPR on large scale dataset
 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
 ## Phase 4 Set up the sampling functions
