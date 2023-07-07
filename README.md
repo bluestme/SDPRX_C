@@ -30,8 +30,8 @@ This phase completes upon the condition: After preprocessing the test data, new 
 - [x]  Complete initiation
 
 ## Phase 3.5 Implementation of LD matrix evaluation
-- [ ] Read the code in SDPRX
-- [ ] Test the code for SDPRX on HPC
+- [x] Read the code in SDPRX
+- [x] Test the code for SDPRX on HPC
 - [ ] Read the code in SDPR
 - [ ] Modify the code for SDPR
 - [ ] Test the code for SDPR on small scale dataset
