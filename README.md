@@ -47,6 +47,7 @@ This phase completes upon the condition: After initiation, new C++ code give the
 - [ ]  alpha
 - [x]  sufficient stats
 - [x]  sigma2
+- [ ]  V
 - [ ]  Integration of the sampling functions to complete one MCMC cycle
 
 
@@ -59,4 +60,3 @@ This phase completes upon the condition: With testing, each function give the sa
 - [ ]  Code documentation and commenting
 - [ ]  Test the program with 2 rounds of MCMC locally
 - [ ]  Test the program with real data
-
