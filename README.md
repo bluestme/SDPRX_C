@@ -39,7 +39,7 @@ This phase completes upon the condition: After preprocessing the test data, new 
 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
 ## Phase 4 Set up the sampling functions
-- [ ]  assignment
+- [x]  assignment
 - [ ]  beta
 - [ ]  eta
 - [x]  calc_b
@@ -57,5 +57,6 @@ This phase completes upon the condition: With testing, each function give the sa
 - [ ]  Integrate all implemented function such as input and threads
 - [ ]  Write the makefile
 - [ ]  Code documentation and commenting
-- [ ]  Test the program with multiple applications
+- [ ]  Test the program with 2 rounds of MCMC locally
+- [ ]  Test the program with real data
 
