@@ -43,11 +43,11 @@ This phase completes upon the condition: After initiation, new C++ code give the
 - [ ]  beta
 - [ ]  eta
 - [x]  calc_b
-- [ ]  prob for each population
-- [ ]  alpha
+- [x]  prob for each population
+- [x]  alpha
 - [x]  sufficient stats
 - [x]  sigma2
-- [ ]  V
+- [x]  V
 - [ ]  Integration of the sampling functions to complete one MCMC cycle
 
 
