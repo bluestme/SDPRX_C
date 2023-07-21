@@ -40,8 +40,8 @@ This phase completes upon the condition: After preprocessing the test data, new 
 This phase completes upon the condition: After initiation, new C++ code give the same output as the Python code
 ## Phase 4 Set up the sampling functions
 - [x]  assignment
-- [ ]  beta
-- [ ]  eta
+- [x]  beta
+- [x]  eta
 - [x]  calc_b
 - [x]  prob for each population
 - [x]  alpha
