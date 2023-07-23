@@ -48,15 +48,15 @@ This phase completes upon the condition: After initiation, new C++ code give the
 - [x]  sufficient stats
 - [x]  sigma2
 - [x]  V
-- [ ]  Integration of the sampling functions to complete one MCMC cycle
+- [x]  Integration of the sampling functions to complete one MCMC cycle
 
 
 This phase completes upon the condition: With testing, each function give the same output as the Python code
 
 ## Phase 5 Integration
-- [ ]  Design the output of the code
+- [x]  Design the output of the code
 - [ ]  Integrate all implemented function such as input and threads
-- [ ]  Write the makefile
-- [ ]  Code documentation and commenting
+- [x]  Write the makefile
+- [x]  Code documentation and commenting
 - [ ]  Test the program with 2 rounds of MCMC locally
 - [ ]  Test the program with real data
